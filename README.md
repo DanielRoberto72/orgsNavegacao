@@ -1,4 +1,4 @@
-# orgs
+# orgsNavegacao
 Repositório do curso de React Native: criando menu e navegando entre telas
 
 # Passos iniciais
